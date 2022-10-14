@@ -5,8 +5,9 @@ I'm Alex, a Computer Science and Cybersecurity student from San Antonio, TX. I e
 This GitHub is a living record of my code projects to date, spanning my first HelloWorld to my latest school projects. Thank you for stopping by!
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CyberPenguinAlpha&show_icons=true&theme=solarized-dark" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberPenguinAlpha&show_icons=true&theme=solarized-dark" />
+<img align="left" width="47%" height="150%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberPenguinAlpha&layout=compact&theme=solarized-dark" />
 
+&emsp;&ensp; <!--- precisely 6 spaces to move these badges down, definitely need to learn some more HTML tricks if this is my most elegant solution-->
 
 <img align="left" alt="C Language" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"  />
 <img align="left" alt="GoLang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
@@ -20,5 +21,4 @@ This GitHub is a living record of my code projects to date, spanning my first He
   https://github.com/anuraghazra/github-readme-stats#wakatime-week-stats
   https://github.com/Ileriayo/markdown-badges
   https://arturssmirnovs.github.io/github-profile-readme-generator/
-  
 -->
