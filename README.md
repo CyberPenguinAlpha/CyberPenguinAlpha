@@ -1,11 +1,11 @@
 ## Howdy 🐱‍💻
 
-I'm Alex, a Computer Science and Cybersecurity student from San Antonio, TX. I enjoy studying data security and information assurance, and my intrtests currently lie in Postquantum Cryptography and AI-driven intrusion prevention. 
+I'm Alex, a Computer Science and Cybersecurity student from San Antonio, TX. I enjoy studying data security and information assurance, and my intrests currently lie in Postquantum Cryptography and AI-driven intrusion prevention. 
 
 This GitHub is a living record of my code projects to date, spanning my first HelloWorld to my latest school projects. Thank you for stopping by!
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CyberPenguinAlpha&show_icons=true&theme=solarized-dark" />
-<img align="left" width="47%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberPenguinAlpha&show_icons=true&theme=solarized-dark" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberPenguinAlpha&show_icons=true&theme=solarized-dark" />
 
 
 <img align="left" alt="C Language" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"  />
