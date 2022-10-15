@@ -1,6 +1,6 @@
 ## 🕵 Howdy 🐱‍💻
 
-I'm Alex, a Computer Science and Cybersecurity student from San Antonio, TX. I enjoy studying data security and information assurance, and my intrests currently lie in Postquantum Cryptography and AI-driven intrusion prevention. 
+I'm Alex, a Computer Science and Cybersecurity student from San Antonio, TX. I enjoy studying data security and information assurance, and my interests currently lie in Postquantum Cryptography and AI-driven intrusion prevention. 
 
 This GitHub is a living record of my code projects to date, spanning my first HelloWorld to my latest school projects. Thank you for stopping by!
 
